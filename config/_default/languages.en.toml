@@ -14,7 +14,7 @@ dateFormat = "2 January 2006"
 
 [author]
   name = "José Sousa"
-  image = "img/mrrobot.jpg"
+  image = "img/steam-robot.png"
   headline = "I'm not a robot"
   bio = "Software Engineer as degree, Software Architect as job, Game Dev as hobby"
   links = [
